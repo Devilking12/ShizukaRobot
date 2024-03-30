@@ -123,6 +123,9 @@ async def some_function(_, message):
 <a href="https://telegram.me/mukeshbotzone"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=telegram"></a>
 </p>
 
+<a href="https://instagram.com/Devilxd516"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+
+
 ━━━━━━━━━━━━━━━━━━━━
 ### ㅤㅤㅤㅤᴄʀᴇᴅɪᴛs 
  [ ᴍᴜᴋᴇsʜ ](https://t.me/legend_coder)
